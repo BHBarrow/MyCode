@@ -1,11 +1,12 @@
   "title": "MyCodePackage",
-  "devDependencies": {
-    "@types/material-ui": "latest"
+  "devDependencies": {    
+    "react-scripts": "latest"
   },
   "description": "",
   "dependencies": {
     "react-dom": "latest",
     "react": "latest",
-    "react-scripts": "latest"
+    "@types/material-ui": "latest",
+    "@types/material-ui": "latest"
   }
 }
