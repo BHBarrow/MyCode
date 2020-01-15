@@ -5,8 +5,6 @@
   "description": "",
   "dependencies": {
     "react-dom": "latest",
-    "react": "latest",
-    "@types/material-ui": "latest",
-    "@types/material-ui": "latest"
+    "react": "latest"
   }
 }
